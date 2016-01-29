@@ -13,7 +13,10 @@ Referal
 
 ##Default accounts:
 
-1. login: administrator
+####Administrator
+   login: administrator
    password: administrator
-2. login: user
+
+####User
+   login: user
    password: user
