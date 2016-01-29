@@ -14,9 +14,9 @@ Referal
 ##Default accounts:
 
 ####Administrator
-   login: administrator
-   password: administrator
+- login: administrator
+- password: administrator
 
 ####User
-   login: user
-   password: user
+- login: user
+- password: user
