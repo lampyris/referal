@@ -1,4 +1,4 @@
-Referal
+Referral
 =======
 
 ##Installation
